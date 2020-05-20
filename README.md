@@ -6,6 +6,17 @@ You can use the [editor on GitHub](https://github.com/LeoMondsee/Leo-assignment_
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# My first Github
+- Dog
+- Frog
+- Mag
+
+1. A
+2. B
+3. C
+
+**Servus** _Servus_ `Servus`
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -27,6 +38,22 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Bear 
+## Dog
+### Cat
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
